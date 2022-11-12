@@ -1,4 +1,4 @@
-
+#Deber
 #############
 #Cuantas veces los niveles de los individuos 3 y 27 han dido grabadas
 
