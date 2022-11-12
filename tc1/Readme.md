@@ -1,10 +1,9 @@
-# Tarea en clase 1
+# Tarea de clase 1
 
-## Christhoper Carrasco
-En esta actividad se va a hacer una evaluacion de lo aprendido en Unix
+## Moisés Gualapuro
+En esta actividad se va hacer una evaluación de lo aprendido en Unix. 
 
-**Datos personales** 
-- Cuidad de origen: Pedro Vicente Maldonado
-- Idiomas: Español, Inglés
-- Deportes: Futbol, Basquet, Ping Pong
-- Edad:20
+**Datos personales**
+- Ciudad de origen: Otavalo
+- Idiomas: Kichwa, Español, Inglés
+- Deportes: NA
