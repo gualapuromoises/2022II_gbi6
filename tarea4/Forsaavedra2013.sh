@@ -11,5 +11,5 @@ for i in Saavedra2013/n*.txt
 do
  filas= `cat $i | wc -l`
  columnas= `head -n 1 $i | tr -d " " | tr -d "\n" | wc -c`
- echo $i "Filas" $filas  "Columnas" $columnas
+ echo  $i "Filas:" $filas "Columnas:" $columnas
 done
