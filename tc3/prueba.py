@@ -1,6 +1,6 @@
-print("Hola")
+print("Hola confirma")
 x = 5
 y = 3
-z = x*y
- print("z =", z)
+z = x * y
+print("z =", z)
 
