@@ -26,3 +26,5 @@ Los tópicos cubiertos son:
 
 2. Joyce Andrade
 
+3. Christhoper Carrasco
+
