@@ -31,3 +31,5 @@ Los tópicos cubiertos son:
 4. Alejandra Toro
 
 5. Mateo Benalcazar
+
+6. Melina Vargas
