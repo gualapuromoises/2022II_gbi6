@@ -29,3 +29,7 @@ Los tópicos cubiertos son:
 3. Christhoper Carrasco
 
 4. Alejandra Toro
+
+5. Omar Caiza
+
+6. Chritian Lescano
